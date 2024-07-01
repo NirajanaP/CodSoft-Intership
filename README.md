@@ -1,1 +1,1 @@
-# CodSoft-Intership
+# CodSoft-Internship
